@@ -27,9 +27,9 @@ def question2():
     answers = {}
 
     # string "yes" or "no"
-    answers["(a)"] = "Yes"
-    answers["(b)"] = "No"
-    answers["(c)"] = "No"
+    answers["(a)"] = ""
+    answers["(b)"] = ""
+    answers["(c)"] = ""
     answers["(d)"] = ""
 
     # explain_string: explanation in english prose
